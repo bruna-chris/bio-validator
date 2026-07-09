@@ -55,7 +55,7 @@ O projeto foi estruturado seguindo o padrão de **Arquitetura em Camadas**, gara
 
 ---
 
-## 🧪 Como Rodar os Testes Automatizados (Diferencial)
+## 🧪 Como Rodar os Testes Automatizados
 
 Foi desenvolvida uma suíte de testes de integração utilizando **JUnit 5** e `@SpringBootTest` que valida todo o fluxo da aplicação de forma automatizada (Criação de usuário, validação de documento duplicado, listagem e alteração de status da biometria).
 
